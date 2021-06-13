@@ -24,7 +24,8 @@
     git status (check the status of the staging before starting)
     git add <filenames and stuff> (-A if you are crazy)
     git commit -m "Message about commit" (This commits a change to head, but not a remote repo)
-    git push origin master (Now push the changes to the master branch of the repo)
+    //git remote add origin https://github.com/zaiquiriw/startup-instructions.git
+    git push origin main (Now push the changes to the master branch of the repo)
     
     
   
